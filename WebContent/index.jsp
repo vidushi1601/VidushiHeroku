@@ -4,12 +4,12 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>IMDB Search Engine</title>
+<title>MOVIE EXPLORER</title>
 <link href ="bootstrap.css" type = "text/css" rel = "stylesheet">
 </head>
 
 <body style="background-color:powderblue;"><br><br><br>
-<center><h1>IMDB MOVIE</h1></center>
+<marquee><h1>INTERNET MOVIE DATABASE(IMDB)</h1></marquee>
 <br><br>
 <form action= "ServletFinal">
 <table align="center">
